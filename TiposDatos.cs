@@ -1,6 +1,6 @@
-﻿namespace Video_1
+﻿namespace Datos
 {
-    class Program
+    class TiposDatos
     {
         static void Main(string[] args)
         {   
