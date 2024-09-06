@@ -1,0 +1,14 @@
+E:\C# De cero a Fullstack\Condicionales\Condicionales\bin\Debug\net8.0\Condicionales.exe
+E:\C# De cero a Fullstack\Condicionales\Condicionales\bin\Debug\net8.0\Condicionales.deps.json
+E:\C# De cero a Fullstack\Condicionales\Condicionales\bin\Debug\net8.0\Condicionales.runtimeconfig.json
+E:\C# De cero a Fullstack\Condicionales\Condicionales\bin\Debug\net8.0\Condicionales.dll
+E:\C# De cero a Fullstack\Condicionales\Condicionales\bin\Debug\net8.0\Condicionales.pdb
+E:\C# De cero a Fullstack\Condicionales\Condicionales\obj\Debug\net8.0\Condicionales.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# De cero a Fullstack\Condicionales\Condicionales\obj\Debug\net8.0\Condicionales.AssemblyInfoInputs.cache
+E:\C# De cero a Fullstack\Condicionales\Condicionales\obj\Debug\net8.0\Condicionales.AssemblyInfo.cs
+E:\C# De cero a Fullstack\Condicionales\Condicionales\obj\Debug\net8.0\Condicionales.csproj.CoreCompileInputs.cache
+E:\C# De cero a Fullstack\Condicionales\Condicionales\obj\Debug\net8.0\Condicionales.dll
+E:\C# De cero a Fullstack\Condicionales\Condicionales\obj\Debug\net8.0\refint\Condicionales.dll
+E:\C# De cero a Fullstack\Condicionales\Condicionales\obj\Debug\net8.0\Condicionales.pdb
+E:\C# De cero a Fullstack\Condicionales\Condicionales\obj\Debug\net8.0\Condicionales.genruntimeconfig.cache
+E:\C# De cero a Fullstack\Condicionales\Condicionales\obj\Debug\net8.0\ref\Condicionales.dll
