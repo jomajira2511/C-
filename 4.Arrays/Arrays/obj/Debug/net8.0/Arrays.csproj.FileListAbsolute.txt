@@ -1,0 +1,14 @@
+E:\C# De cero a Fullstack\Arrays\Arrays\bin\Debug\net8.0\Arrays.exe
+E:\C# De cero a Fullstack\Arrays\Arrays\bin\Debug\net8.0\Arrays.deps.json
+E:\C# De cero a Fullstack\Arrays\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+E:\C# De cero a Fullstack\Arrays\Arrays\bin\Debug\net8.0\Arrays.dll
+E:\C# De cero a Fullstack\Arrays\Arrays\bin\Debug\net8.0\Arrays.pdb
+E:\C# De cero a Fullstack\Arrays\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# De cero a Fullstack\Arrays\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+E:\C# De cero a Fullstack\Arrays\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+E:\C# De cero a Fullstack\Arrays\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+E:\C# De cero a Fullstack\Arrays\Arrays\obj\Debug\net8.0\Arrays.dll
+E:\C# De cero a Fullstack\Arrays\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+E:\C# De cero a Fullstack\Arrays\Arrays\obj\Debug\net8.0\Arrays.pdb
+E:\C# De cero a Fullstack\Arrays\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+E:\C# De cero a Fullstack\Arrays\Arrays\obj\Debug\net8.0\ref\Arrays.dll
