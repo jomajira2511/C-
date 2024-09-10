@@ -1,0 +1,14 @@
+E:\C#\1. Primer Aplicacion\1. Primer Aplicacion\bin\Debug\net8.0\1. Primer Aplicacion.exe
+E:\C#\1. Primer Aplicacion\1. Primer Aplicacion\bin\Debug\net8.0\1. Primer Aplicacion.deps.json
+E:\C#\1. Primer Aplicacion\1. Primer Aplicacion\bin\Debug\net8.0\1. Primer Aplicacion.runtimeconfig.json
+E:\C#\1. Primer Aplicacion\1. Primer Aplicacion\bin\Debug\net8.0\1. Primer Aplicacion.dll
+E:\C#\1. Primer Aplicacion\1. Primer Aplicacion\bin\Debug\net8.0\1. Primer Aplicacion.pdb
+E:\C#\1. Primer Aplicacion\1. Primer Aplicacion\obj\Debug\net8.0\1. Primer Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\1. Primer Aplicacion\1. Primer Aplicacion\obj\Debug\net8.0\1. Primer Aplicacion.AssemblyInfoInputs.cache
+E:\C#\1. Primer Aplicacion\1. Primer Aplicacion\obj\Debug\net8.0\1. Primer Aplicacion.AssemblyInfo.cs
+E:\C#\1. Primer Aplicacion\1. Primer Aplicacion\obj\Debug\net8.0\1. Primer Aplicacion.csproj.CoreCompileInputs.cache
+E:\C#\1. Primer Aplicacion\1. Primer Aplicacion\obj\Debug\net8.0\1. Primer Aplicacion.dll
+E:\C#\1. Primer Aplicacion\1. Primer Aplicacion\obj\Debug\net8.0\refint\1. Primer Aplicacion.dll
+E:\C#\1. Primer Aplicacion\1. Primer Aplicacion\obj\Debug\net8.0\1. Primer Aplicacion.pdb
+E:\C#\1. Primer Aplicacion\1. Primer Aplicacion\obj\Debug\net8.0\1. Primer Aplicacion.genruntimeconfig.cache
+E:\C#\1. Primer Aplicacion\1. Primer Aplicacion\obj\Debug\net8.0\ref\1. Primer Aplicacion.dll
