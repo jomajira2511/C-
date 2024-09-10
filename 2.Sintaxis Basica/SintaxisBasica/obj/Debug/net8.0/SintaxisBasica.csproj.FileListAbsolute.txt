@@ -1,0 +1,14 @@
+E:\C#\SintaxisBasica\SintaxisBasica\bin\Debug\net8.0\SintaxisBasica.exe
+E:\C#\SintaxisBasica\SintaxisBasica\bin\Debug\net8.0\SintaxisBasica.deps.json
+E:\C#\SintaxisBasica\SintaxisBasica\bin\Debug\net8.0\SintaxisBasica.runtimeconfig.json
+E:\C#\SintaxisBasica\SintaxisBasica\bin\Debug\net8.0\SintaxisBasica.dll
+E:\C#\SintaxisBasica\SintaxisBasica\bin\Debug\net8.0\SintaxisBasica.pdb
+E:\C#\SintaxisBasica\SintaxisBasica\obj\Debug\net8.0\SintaxisBasica.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\SintaxisBasica\SintaxisBasica\obj\Debug\net8.0\SintaxisBasica.AssemblyInfoInputs.cache
+E:\C#\SintaxisBasica\SintaxisBasica\obj\Debug\net8.0\SintaxisBasica.AssemblyInfo.cs
+E:\C#\SintaxisBasica\SintaxisBasica\obj\Debug\net8.0\SintaxisBasica.csproj.CoreCompileInputs.cache
+E:\C#\SintaxisBasica\SintaxisBasica\obj\Debug\net8.0\SintaxisBasica.dll
+E:\C#\SintaxisBasica\SintaxisBasica\obj\Debug\net8.0\refint\SintaxisBasica.dll
+E:\C#\SintaxisBasica\SintaxisBasica\obj\Debug\net8.0\SintaxisBasica.pdb
+E:\C#\SintaxisBasica\SintaxisBasica\obj\Debug\net8.0\SintaxisBasica.genruntimeconfig.cache
+E:\C#\SintaxisBasica\SintaxisBasica\obj\Debug\net8.0\ref\SintaxisBasica.dll
