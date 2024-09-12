@@ -1,0 +1,14 @@
+E:\C#\6. Bucle While\6. Bucle While\bin\Debug\net8.0\6. Bucle While.exe
+E:\C#\6. Bucle While\6. Bucle While\bin\Debug\net8.0\6. Bucle While.deps.json
+E:\C#\6. Bucle While\6. Bucle While\bin\Debug\net8.0\6. Bucle While.runtimeconfig.json
+E:\C#\6. Bucle While\6. Bucle While\bin\Debug\net8.0\6. Bucle While.dll
+E:\C#\6. Bucle While\6. Bucle While\bin\Debug\net8.0\6. Bucle While.pdb
+E:\C#\6. Bucle While\6. Bucle While\obj\Debug\net8.0\6. Bucle While.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\6. Bucle While\6. Bucle While\obj\Debug\net8.0\6. Bucle While.AssemblyInfoInputs.cache
+E:\C#\6. Bucle While\6. Bucle While\obj\Debug\net8.0\6. Bucle While.AssemblyInfo.cs
+E:\C#\6. Bucle While\6. Bucle While\obj\Debug\net8.0\6. Bucle While.csproj.CoreCompileInputs.cache
+E:\C#\6. Bucle While\6. Bucle While\obj\Debug\net8.0\6. Bucle While.dll
+E:\C#\6. Bucle While\6. Bucle While\obj\Debug\net8.0\refint\6. Bucle While.dll
+E:\C#\6. Bucle While\6. Bucle While\obj\Debug\net8.0\6. Bucle While.pdb
+E:\C#\6. Bucle While\6. Bucle While\obj\Debug\net8.0\6. Bucle While.genruntimeconfig.cache
+E:\C#\6. Bucle While\6. Bucle While\obj\Debug\net8.0\ref\6. Bucle While.dll
