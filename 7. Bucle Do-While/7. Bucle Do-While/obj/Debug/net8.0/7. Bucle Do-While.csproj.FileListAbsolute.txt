@@ -1,0 +1,14 @@
+E:\C#\7. Bucle Do-While\7. Bucle Do-While\bin\Debug\net8.0\7. Bucle Do-While.exe
+E:\C#\7. Bucle Do-While\7. Bucle Do-While\bin\Debug\net8.0\7. Bucle Do-While.deps.json
+E:\C#\7. Bucle Do-While\7. Bucle Do-While\bin\Debug\net8.0\7. Bucle Do-While.runtimeconfig.json
+E:\C#\7. Bucle Do-While\7. Bucle Do-While\bin\Debug\net8.0\7. Bucle Do-While.dll
+E:\C#\7. Bucle Do-While\7. Bucle Do-While\bin\Debug\net8.0\7. Bucle Do-While.pdb
+E:\C#\7. Bucle Do-While\7. Bucle Do-While\obj\Debug\net8.0\7. Bucle Do-While.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\7. Bucle Do-While\7. Bucle Do-While\obj\Debug\net8.0\7. Bucle Do-While.AssemblyInfoInputs.cache
+E:\C#\7. Bucle Do-While\7. Bucle Do-While\obj\Debug\net8.0\7. Bucle Do-While.AssemblyInfo.cs
+E:\C#\7. Bucle Do-While\7. Bucle Do-While\obj\Debug\net8.0\7. Bucle Do-While.csproj.CoreCompileInputs.cache
+E:\C#\7. Bucle Do-While\7. Bucle Do-While\obj\Debug\net8.0\7. Bucle Do-While.dll
+E:\C#\7. Bucle Do-While\7. Bucle Do-While\obj\Debug\net8.0\refint\7. Bucle Do-While.dll
+E:\C#\7. Bucle Do-While\7. Bucle Do-While\obj\Debug\net8.0\7. Bucle Do-While.pdb
+E:\C#\7. Bucle Do-While\7. Bucle Do-While\obj\Debug\net8.0\7. Bucle Do-While.genruntimeconfig.cache
+E:\C#\7. Bucle Do-While\7. Bucle Do-While\obj\Debug\net8.0\ref\7. Bucle Do-While.dll
