@@ -1,0 +1,14 @@
+E:\C#\5. Condicional Switch\5. Condicional Switch\bin\Debug\net8.0\5. Condicional Switch.exe
+E:\C#\5. Condicional Switch\5. Condicional Switch\bin\Debug\net8.0\5. Condicional Switch.deps.json
+E:\C#\5. Condicional Switch\5. Condicional Switch\bin\Debug\net8.0\5. Condicional Switch.runtimeconfig.json
+E:\C#\5. Condicional Switch\5. Condicional Switch\bin\Debug\net8.0\5. Condicional Switch.dll
+E:\C#\5. Condicional Switch\5. Condicional Switch\bin\Debug\net8.0\5. Condicional Switch.pdb
+E:\C#\5. Condicional Switch\5. Condicional Switch\obj\Debug\net8.0\5. Condicional Switch.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\5. Condicional Switch\5. Condicional Switch\obj\Debug\net8.0\5. Condicional Switch.AssemblyInfoInputs.cache
+E:\C#\5. Condicional Switch\5. Condicional Switch\obj\Debug\net8.0\5. Condicional Switch.AssemblyInfo.cs
+E:\C#\5. Condicional Switch\5. Condicional Switch\obj\Debug\net8.0\5. Condicional Switch.csproj.CoreCompileInputs.cache
+E:\C#\5. Condicional Switch\5. Condicional Switch\obj\Debug\net8.0\5. Condicional Switch.dll
+E:\C#\5. Condicional Switch\5. Condicional Switch\obj\Debug\net8.0\refint\5. Condicional Switch.dll
+E:\C#\5. Condicional Switch\5. Condicional Switch\obj\Debug\net8.0\5. Condicional Switch.pdb
+E:\C#\5. Condicional Switch\5. Condicional Switch\obj\Debug\net8.0\5. Condicional Switch.genruntimeconfig.cache
+E:\C#\5. Condicional Switch\5. Condicional Switch\obj\Debug\net8.0\ref\5. Condicional Switch.dll
