@@ -1,0 +1,14 @@
+E:\C#\4. Condicional IF\4. Condicional IF\obj\Debug\net8.0\4. Condicional IF.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\4. Condicional IF\4. Condicional IF\obj\Debug\net8.0\4. Condicional IF.AssemblyInfoInputs.cache
+E:\C#\4. Condicional IF\4. Condicional IF\obj\Debug\net8.0\4. Condicional IF.AssemblyInfo.cs
+E:\C#\4. Condicional IF\4. Condicional IF\obj\Debug\net8.0\4. Condicional IF.csproj.CoreCompileInputs.cache
+E:\C#\4. Condicional IF\4. Condicional IF\bin\Debug\net8.0\4. Condicional IF.exe
+E:\C#\4. Condicional IF\4. Condicional IF\bin\Debug\net8.0\4. Condicional IF.deps.json
+E:\C#\4. Condicional IF\4. Condicional IF\bin\Debug\net8.0\4. Condicional IF.runtimeconfig.json
+E:\C#\4. Condicional IF\4. Condicional IF\bin\Debug\net8.0\4. Condicional IF.dll
+E:\C#\4. Condicional IF\4. Condicional IF\bin\Debug\net8.0\4. Condicional IF.pdb
+E:\C#\4. Condicional IF\4. Condicional IF\obj\Debug\net8.0\4. Condicional IF.dll
+E:\C#\4. Condicional IF\4. Condicional IF\obj\Debug\net8.0\refint\4. Condicional IF.dll
+E:\C#\4. Condicional IF\4. Condicional IF\obj\Debug\net8.0\4. Condicional IF.pdb
+E:\C#\4. Condicional IF\4. Condicional IF\obj\Debug\net8.0\4. Condicional IF.genruntimeconfig.cache
+E:\C#\4. Condicional IF\4. Condicional IF\obj\Debug\net8.0\ref\4. Condicional IF.dll
