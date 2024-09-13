@@ -1,0 +1,14 @@
+E:\C#\9.2 POO (Constructores)\9.2 POO (Constructores)\bin\Debug\net8.0\9.2 POO (Constructores).exe
+E:\C#\9.2 POO (Constructores)\9.2 POO (Constructores)\bin\Debug\net8.0\9.2 POO (Constructores).deps.json
+E:\C#\9.2 POO (Constructores)\9.2 POO (Constructores)\bin\Debug\net8.0\9.2 POO (Constructores).runtimeconfig.json
+E:\C#\9.2 POO (Constructores)\9.2 POO (Constructores)\bin\Debug\net8.0\9.2 POO (Constructores).dll
+E:\C#\9.2 POO (Constructores)\9.2 POO (Constructores)\bin\Debug\net8.0\9.2 POO (Constructores).pdb
+E:\C#\9.2 POO (Constructores)\9.2 POO (Constructores)\obj\Debug\net8.0\9.2 POO (Constructores).GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\9.2 POO (Constructores)\9.2 POO (Constructores)\obj\Debug\net8.0\9.2 POO (Constructores).AssemblyInfoInputs.cache
+E:\C#\9.2 POO (Constructores)\9.2 POO (Constructores)\obj\Debug\net8.0\9.2 POO (Constructores).AssemblyInfo.cs
+E:\C#\9.2 POO (Constructores)\9.2 POO (Constructores)\obj\Debug\net8.0\9.2 POO (Constructores).csproj.CoreCompileInputs.cache
+E:\C#\9.2 POO (Constructores)\9.2 POO (Constructores)\obj\Debug\net8.0\9.2 POO (Constructores).dll
+E:\C#\9.2 POO (Constructores)\9.2 POO (Constructores)\obj\Debug\net8.0\refint\9.2 POO (Constructores).dll
+E:\C#\9.2 POO (Constructores)\9.2 POO (Constructores)\obj\Debug\net8.0\9.2 POO (Constructores).pdb
+E:\C#\9.2 POO (Constructores)\9.2 POO (Constructores)\obj\Debug\net8.0\9.2 POO (Constructores).genruntimeconfig.cache
+E:\C#\9.2 POO (Constructores)\9.2 POO (Constructores)\obj\Debug\net8.0\ref\9.2 POO (Constructores).dll
