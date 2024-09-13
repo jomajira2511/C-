@@ -1,0 +1,14 @@
+E:\C#\9.1 POO (Encapsulacion y Convensiones)\9.1 POO (Encapsulacion y Convensiones)\bin\Debug\net8.0\9.1 POO (Encapsulacion y Convensiones).exe
+E:\C#\9.1 POO (Encapsulacion y Convensiones)\9.1 POO (Encapsulacion y Convensiones)\bin\Debug\net8.0\9.1 POO (Encapsulacion y Convensiones).deps.json
+E:\C#\9.1 POO (Encapsulacion y Convensiones)\9.1 POO (Encapsulacion y Convensiones)\bin\Debug\net8.0\9.1 POO (Encapsulacion y Convensiones).runtimeconfig.json
+E:\C#\9.1 POO (Encapsulacion y Convensiones)\9.1 POO (Encapsulacion y Convensiones)\bin\Debug\net8.0\9.1 POO (Encapsulacion y Convensiones).dll
+E:\C#\9.1 POO (Encapsulacion y Convensiones)\9.1 POO (Encapsulacion y Convensiones)\bin\Debug\net8.0\9.1 POO (Encapsulacion y Convensiones).pdb
+E:\C#\9.1 POO (Encapsulacion y Convensiones)\9.1 POO (Encapsulacion y Convensiones)\obj\Debug\net8.0\9.1 POO (Encapsulacion y Convensiones).GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\9.1 POO (Encapsulacion y Convensiones)\9.1 POO (Encapsulacion y Convensiones)\obj\Debug\net8.0\9.1 POO (Encapsulacion y Convensiones).AssemblyInfoInputs.cache
+E:\C#\9.1 POO (Encapsulacion y Convensiones)\9.1 POO (Encapsulacion y Convensiones)\obj\Debug\net8.0\9.1 POO (Encapsulacion y Convensiones).AssemblyInfo.cs
+E:\C#\9.1 POO (Encapsulacion y Convensiones)\9.1 POO (Encapsulacion y Convensiones)\obj\Debug\net8.0\9.1 POO (Encapsulacion y Convensiones).csproj.CoreCompileInputs.cache
+E:\C#\9.1 POO (Encapsulacion y Convensiones)\9.1 POO (Encapsulacion y Convensiones)\obj\Debug\net8.0\9.1 POO (Encapsulacion y Convensiones).dll
+E:\C#\9.1 POO (Encapsulacion y Convensiones)\9.1 POO (Encapsulacion y Convensiones)\obj\Debug\net8.0\refint\9.1 POO (Encapsulacion y Convensiones).dll
+E:\C#\9.1 POO (Encapsulacion y Convensiones)\9.1 POO (Encapsulacion y Convensiones)\obj\Debug\net8.0\9.1 POO (Encapsulacion y Convensiones).pdb
+E:\C#\9.1 POO (Encapsulacion y Convensiones)\9.1 POO (Encapsulacion y Convensiones)\obj\Debug\net8.0\9.1 POO (Encapsulacion y Convensiones).genruntimeconfig.cache
+E:\C#\9.1 POO (Encapsulacion y Convensiones)\9.1 POO (Encapsulacion y Convensiones)\obj\Debug\net8.0\ref\9.1 POO (Encapsulacion y Convensiones).dll
