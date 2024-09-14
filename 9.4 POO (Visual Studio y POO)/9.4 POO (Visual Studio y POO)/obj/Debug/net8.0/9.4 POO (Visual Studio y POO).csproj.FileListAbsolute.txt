@@ -1,0 +1,14 @@
+E:\C#\9.4 POO (Visual Studio y POO)\9.4 POO (Visual Studio y POO)\bin\Debug\net8.0\9.4 POO (Visual Studio y POO).exe
+E:\C#\9.4 POO (Visual Studio y POO)\9.4 POO (Visual Studio y POO)\bin\Debug\net8.0\9.4 POO (Visual Studio y POO).deps.json
+E:\C#\9.4 POO (Visual Studio y POO)\9.4 POO (Visual Studio y POO)\bin\Debug\net8.0\9.4 POO (Visual Studio y POO).runtimeconfig.json
+E:\C#\9.4 POO (Visual Studio y POO)\9.4 POO (Visual Studio y POO)\bin\Debug\net8.0\9.4 POO (Visual Studio y POO).dll
+E:\C#\9.4 POO (Visual Studio y POO)\9.4 POO (Visual Studio y POO)\bin\Debug\net8.0\9.4 POO (Visual Studio y POO).pdb
+E:\C#\9.4 POO (Visual Studio y POO)\9.4 POO (Visual Studio y POO)\obj\Debug\net8.0\9.4 POO (Visual Studio y POO).GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\9.4 POO (Visual Studio y POO)\9.4 POO (Visual Studio y POO)\obj\Debug\net8.0\9.4 POO (Visual Studio y POO).AssemblyInfoInputs.cache
+E:\C#\9.4 POO (Visual Studio y POO)\9.4 POO (Visual Studio y POO)\obj\Debug\net8.0\9.4 POO (Visual Studio y POO).AssemblyInfo.cs
+E:\C#\9.4 POO (Visual Studio y POO)\9.4 POO (Visual Studio y POO)\obj\Debug\net8.0\9.4 POO (Visual Studio y POO).csproj.CoreCompileInputs.cache
+E:\C#\9.4 POO (Visual Studio y POO)\9.4 POO (Visual Studio y POO)\obj\Debug\net8.0\9.4 POO (Visual Studio y POO).dll
+E:\C#\9.4 POO (Visual Studio y POO)\9.4 POO (Visual Studio y POO)\obj\Debug\net8.0\refint\9.4 POO (Visual Studio y POO).dll
+E:\C#\9.4 POO (Visual Studio y POO)\9.4 POO (Visual Studio y POO)\obj\Debug\net8.0\9.4 POO (Visual Studio y POO).pdb
+E:\C#\9.4 POO (Visual Studio y POO)\9.4 POO (Visual Studio y POO)\obj\Debug\net8.0\9.4 POO (Visual Studio y POO).genruntimeconfig.cache
+E:\C#\9.4 POO (Visual Studio y POO)\9.4 POO (Visual Studio y POO)\obj\Debug\net8.0\ref\9.4 POO (Visual Studio y POO).dll
