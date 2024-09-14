@@ -1,0 +1,14 @@
+E:\C#\11. Bucle For-Foreach\11. Bucle For-Foreach\obj\Debug\net8.0\11. Bucle For-Foreach.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\11. Bucle For-Foreach\11. Bucle For-Foreach\obj\Debug\net8.0\11. Bucle For-Foreach.AssemblyInfoInputs.cache
+E:\C#\11. Bucle For-Foreach\11. Bucle For-Foreach\obj\Debug\net8.0\11. Bucle For-Foreach.AssemblyInfo.cs
+E:\C#\11. Bucle For-Foreach\11. Bucle For-Foreach\obj\Debug\net8.0\11. Bucle For-Foreach.csproj.CoreCompileInputs.cache
+E:\C#\11. Bucle For-Foreach\11. Bucle For-Foreach\bin\Debug\net8.0\11. Bucle For-Foreach.exe
+E:\C#\11. Bucle For-Foreach\11. Bucle For-Foreach\bin\Debug\net8.0\11. Bucle For-Foreach.deps.json
+E:\C#\11. Bucle For-Foreach\11. Bucle For-Foreach\bin\Debug\net8.0\11. Bucle For-Foreach.runtimeconfig.json
+E:\C#\11. Bucle For-Foreach\11. Bucle For-Foreach\bin\Debug\net8.0\11. Bucle For-Foreach.dll
+E:\C#\11. Bucle For-Foreach\11. Bucle For-Foreach\bin\Debug\net8.0\11. Bucle For-Foreach.pdb
+E:\C#\11. Bucle For-Foreach\11. Bucle For-Foreach\obj\Debug\net8.0\11. Bucle For-Foreach.dll
+E:\C#\11. Bucle For-Foreach\11. Bucle For-Foreach\obj\Debug\net8.0\refint\11. Bucle For-Foreach.dll
+E:\C#\11. Bucle For-Foreach\11. Bucle For-Foreach\obj\Debug\net8.0\11. Bucle For-Foreach.pdb
+E:\C#\11. Bucle For-Foreach\11. Bucle For-Foreach\obj\Debug\net8.0\11. Bucle For-Foreach.genruntimeconfig.cache
+E:\C#\11. Bucle For-Foreach\11. Bucle For-Foreach\obj\Debug\net8.0\ref\11. Bucle For-Foreach.dll
