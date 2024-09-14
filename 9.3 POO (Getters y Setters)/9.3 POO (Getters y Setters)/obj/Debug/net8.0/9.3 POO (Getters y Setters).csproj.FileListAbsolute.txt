@@ -1,0 +1,14 @@
+E:\C#\9.3 POO (Getters y Setters)\9.3 POO (Getters y Setters)\bin\Debug\net8.0\9.3 POO (Getters y Setters).exe
+E:\C#\9.3 POO (Getters y Setters)\9.3 POO (Getters y Setters)\bin\Debug\net8.0\9.3 POO (Getters y Setters).deps.json
+E:\C#\9.3 POO (Getters y Setters)\9.3 POO (Getters y Setters)\bin\Debug\net8.0\9.3 POO (Getters y Setters).runtimeconfig.json
+E:\C#\9.3 POO (Getters y Setters)\9.3 POO (Getters y Setters)\bin\Debug\net8.0\9.3 POO (Getters y Setters).dll
+E:\C#\9.3 POO (Getters y Setters)\9.3 POO (Getters y Setters)\bin\Debug\net8.0\9.3 POO (Getters y Setters).pdb
+E:\C#\9.3 POO (Getters y Setters)\9.3 POO (Getters y Setters)\obj\Debug\net8.0\9.3 POO (Getters y Setters).GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\9.3 POO (Getters y Setters)\9.3 POO (Getters y Setters)\obj\Debug\net8.0\9.3 POO (Getters y Setters).AssemblyInfoInputs.cache
+E:\C#\9.3 POO (Getters y Setters)\9.3 POO (Getters y Setters)\obj\Debug\net8.0\9.3 POO (Getters y Setters).AssemblyInfo.cs
+E:\C#\9.3 POO (Getters y Setters)\9.3 POO (Getters y Setters)\obj\Debug\net8.0\9.3 POO (Getters y Setters).csproj.CoreCompileInputs.cache
+E:\C#\9.3 POO (Getters y Setters)\9.3 POO (Getters y Setters)\obj\Debug\net8.0\9.3 POO (Getters y Setters).dll
+E:\C#\9.3 POO (Getters y Setters)\9.3 POO (Getters y Setters)\obj\Debug\net8.0\refint\9.3 POO (Getters y Setters).dll
+E:\C#\9.3 POO (Getters y Setters)\9.3 POO (Getters y Setters)\obj\Debug\net8.0\9.3 POO (Getters y Setters).pdb
+E:\C#\9.3 POO (Getters y Setters)\9.3 POO (Getters y Setters)\obj\Debug\net8.0\9.3 POO (Getters y Setters).genruntimeconfig.cache
+E:\C#\9.3 POO (Getters y Setters)\9.3 POO (Getters y Setters)\obj\Debug\net8.0\ref\9.3 POO (Getters y Setters).dll
