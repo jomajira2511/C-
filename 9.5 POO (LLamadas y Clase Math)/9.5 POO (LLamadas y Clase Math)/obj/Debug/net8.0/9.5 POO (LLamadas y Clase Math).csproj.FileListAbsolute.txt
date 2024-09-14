@@ -1,0 +1,14 @@
+E:\C#\9.5 POO (LLamadas y Clase Math)\9.5 POO (LLamadas y Clase Math)\bin\Debug\net8.0\9.5 POO (LLamadas y Clase Math).exe
+E:\C#\9.5 POO (LLamadas y Clase Math)\9.5 POO (LLamadas y Clase Math)\bin\Debug\net8.0\9.5 POO (LLamadas y Clase Math).deps.json
+E:\C#\9.5 POO (LLamadas y Clase Math)\9.5 POO (LLamadas y Clase Math)\bin\Debug\net8.0\9.5 POO (LLamadas y Clase Math).runtimeconfig.json
+E:\C#\9.5 POO (LLamadas y Clase Math)\9.5 POO (LLamadas y Clase Math)\bin\Debug\net8.0\9.5 POO (LLamadas y Clase Math).dll
+E:\C#\9.5 POO (LLamadas y Clase Math)\9.5 POO (LLamadas y Clase Math)\bin\Debug\net8.0\9.5 POO (LLamadas y Clase Math).pdb
+E:\C#\9.5 POO (LLamadas y Clase Math)\9.5 POO (LLamadas y Clase Math)\obj\Debug\net8.0\9.5 POO (LLamadas y Clase Math).GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\9.5 POO (LLamadas y Clase Math)\9.5 POO (LLamadas y Clase Math)\obj\Debug\net8.0\9.5 POO (LLamadas y Clase Math).AssemblyInfoInputs.cache
+E:\C#\9.5 POO (LLamadas y Clase Math)\9.5 POO (LLamadas y Clase Math)\obj\Debug\net8.0\9.5 POO (LLamadas y Clase Math).AssemblyInfo.cs
+E:\C#\9.5 POO (LLamadas y Clase Math)\9.5 POO (LLamadas y Clase Math)\obj\Debug\net8.0\9.5 POO (LLamadas y Clase Math).csproj.CoreCompileInputs.cache
+E:\C#\9.5 POO (LLamadas y Clase Math)\9.5 POO (LLamadas y Clase Math)\obj\Debug\net8.0\9.5 POO (LLamadas y Clase Math).dll
+E:\C#\9.5 POO (LLamadas y Clase Math)\9.5 POO (LLamadas y Clase Math)\obj\Debug\net8.0\refint\9.5 POO (LLamadas y Clase Math).dll
+E:\C#\9.5 POO (LLamadas y Clase Math)\9.5 POO (LLamadas y Clase Math)\obj\Debug\net8.0\9.5 POO (LLamadas y Clase Math).pdb
+E:\C#\9.5 POO (LLamadas y Clase Math)\9.5 POO (LLamadas y Clase Math)\obj\Debug\net8.0\9.5 POO (LLamadas y Clase Math).genruntimeconfig.cache
+E:\C#\9.5 POO (LLamadas y Clase Math)\9.5 POO (LLamadas y Clase Math)\obj\Debug\net8.0\ref\9.5 POO (LLamadas y Clase Math).dll
