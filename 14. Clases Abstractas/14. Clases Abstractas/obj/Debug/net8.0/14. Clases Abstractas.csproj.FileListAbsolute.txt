@@ -1,0 +1,14 @@
+E:\C#\14. Clases Abstractas\14. Clases Abstractas\bin\Debug\net8.0\14. Clases Abstractas.exe
+E:\C#\14. Clases Abstractas\14. Clases Abstractas\bin\Debug\net8.0\14. Clases Abstractas.deps.json
+E:\C#\14. Clases Abstractas\14. Clases Abstractas\bin\Debug\net8.0\14. Clases Abstractas.runtimeconfig.json
+E:\C#\14. Clases Abstractas\14. Clases Abstractas\bin\Debug\net8.0\14. Clases Abstractas.dll
+E:\C#\14. Clases Abstractas\14. Clases Abstractas\bin\Debug\net8.0\14. Clases Abstractas.pdb
+E:\C#\14. Clases Abstractas\14. Clases Abstractas\obj\Debug\net8.0\14. Clases Abstractas.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\14. Clases Abstractas\14. Clases Abstractas\obj\Debug\net8.0\14. Clases Abstractas.AssemblyInfoInputs.cache
+E:\C#\14. Clases Abstractas\14. Clases Abstractas\obj\Debug\net8.0\14. Clases Abstractas.AssemblyInfo.cs
+E:\C#\14. Clases Abstractas\14. Clases Abstractas\obj\Debug\net8.0\14. Clases Abstractas.csproj.CoreCompileInputs.cache
+E:\C#\14. Clases Abstractas\14. Clases Abstractas\obj\Debug\net8.0\14. Clases Abstractas.dll
+E:\C#\14. Clases Abstractas\14. Clases Abstractas\obj\Debug\net8.0\refint\14. Clases Abstractas.dll
+E:\C#\14. Clases Abstractas\14. Clases Abstractas\obj\Debug\net8.0\14. Clases Abstractas.pdb
+E:\C#\14. Clases Abstractas\14. Clases Abstractas\obj\Debug\net8.0\14. Clases Abstractas.genruntimeconfig.cache
+E:\C#\14. Clases Abstractas\14. Clases Abstractas\obj\Debug\net8.0\ref\14. Clases Abstractas.dll
