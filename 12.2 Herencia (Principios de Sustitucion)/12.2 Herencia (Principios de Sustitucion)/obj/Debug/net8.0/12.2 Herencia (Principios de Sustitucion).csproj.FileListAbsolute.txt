@@ -1,0 +1,14 @@
+E:\C#\12.2 Herencia (Principios de Sustitucion)\12.2 Herencia (Principios de Sustitucion)\bin\Debug\net8.0\12.2 Herencia (Principios de Sustitucion).exe
+E:\C#\12.2 Herencia (Principios de Sustitucion)\12.2 Herencia (Principios de Sustitucion)\bin\Debug\net8.0\12.2 Herencia (Principios de Sustitucion).deps.json
+E:\C#\12.2 Herencia (Principios de Sustitucion)\12.2 Herencia (Principios de Sustitucion)\bin\Debug\net8.0\12.2 Herencia (Principios de Sustitucion).runtimeconfig.json
+E:\C#\12.2 Herencia (Principios de Sustitucion)\12.2 Herencia (Principios de Sustitucion)\bin\Debug\net8.0\12.2 Herencia (Principios de Sustitucion).dll
+E:\C#\12.2 Herencia (Principios de Sustitucion)\12.2 Herencia (Principios de Sustitucion)\bin\Debug\net8.0\12.2 Herencia (Principios de Sustitucion).pdb
+E:\C#\12.2 Herencia (Principios de Sustitucion)\12.2 Herencia (Principios de Sustitucion)\obj\Debug\net8.0\12.2 Herencia (Principios de Sustitucion).GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\12.2 Herencia (Principios de Sustitucion)\12.2 Herencia (Principios de Sustitucion)\obj\Debug\net8.0\12.2 Herencia (Principios de Sustitucion).AssemblyInfoInputs.cache
+E:\C#\12.2 Herencia (Principios de Sustitucion)\12.2 Herencia (Principios de Sustitucion)\obj\Debug\net8.0\12.2 Herencia (Principios de Sustitucion).AssemblyInfo.cs
+E:\C#\12.2 Herencia (Principios de Sustitucion)\12.2 Herencia (Principios de Sustitucion)\obj\Debug\net8.0\12.2 Herencia (Principios de Sustitucion).csproj.CoreCompileInputs.cache
+E:\C#\12.2 Herencia (Principios de Sustitucion)\12.2 Herencia (Principios de Sustitucion)\obj\Debug\net8.0\12.2 Herencia (Principios de Sustitucion).dll
+E:\C#\12.2 Herencia (Principios de Sustitucion)\12.2 Herencia (Principios de Sustitucion)\obj\Debug\net8.0\refint\12.2 Herencia (Principios de Sustitucion).dll
+E:\C#\12.2 Herencia (Principios de Sustitucion)\12.2 Herencia (Principios de Sustitucion)\obj\Debug\net8.0\12.2 Herencia (Principios de Sustitucion).pdb
+E:\C#\12.2 Herencia (Principios de Sustitucion)\12.2 Herencia (Principios de Sustitucion)\obj\Debug\net8.0\12.2 Herencia (Principios de Sustitucion).genruntimeconfig.cache
+E:\C#\12.2 Herencia (Principios de Sustitucion)\12.2 Herencia (Principios de Sustitucion)\obj\Debug\net8.0\ref\12.2 Herencia (Principios de Sustitucion).dll

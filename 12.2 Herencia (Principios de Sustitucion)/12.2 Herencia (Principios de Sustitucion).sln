@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.2 Herencia (Principios de Sustitucion)", "12.2 Herencia (Principios de Sustitucion)\12.2 Herencia (Principios de Sustitucion).csproj", "{19B8E8F8-5968-45E5-95A4-A0F0F4F535D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19B8E8F8-5968-45E5-95A4-A0F0F4F535D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B8E8F8-5968-45E5-95A4-A0F0F4F535D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B8E8F8-5968-45E5-95A4-A0F0F4F535D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B8E8F8-5968-45E5-95A4-A0F0F4F535D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7636E08A-97F1-42AC-8CCD-4094CE9E2831}
+	EndGlobalSection
+EndGlobal
