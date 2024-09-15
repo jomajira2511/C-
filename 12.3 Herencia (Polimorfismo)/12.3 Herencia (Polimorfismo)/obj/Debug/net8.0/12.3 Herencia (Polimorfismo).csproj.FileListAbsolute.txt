@@ -1,0 +1,14 @@
+E:\C#\12.3 Herencia (Polimorfismo)\12.3 Herencia (Polimorfismo)\bin\Debug\net8.0\12.3 Herencia (Polimorfismo).exe
+E:\C#\12.3 Herencia (Polimorfismo)\12.3 Herencia (Polimorfismo)\bin\Debug\net8.0\12.3 Herencia (Polimorfismo).deps.json
+E:\C#\12.3 Herencia (Polimorfismo)\12.3 Herencia (Polimorfismo)\bin\Debug\net8.0\12.3 Herencia (Polimorfismo).runtimeconfig.json
+E:\C#\12.3 Herencia (Polimorfismo)\12.3 Herencia (Polimorfismo)\bin\Debug\net8.0\12.3 Herencia (Polimorfismo).dll
+E:\C#\12.3 Herencia (Polimorfismo)\12.3 Herencia (Polimorfismo)\bin\Debug\net8.0\12.3 Herencia (Polimorfismo).pdb
+E:\C#\12.3 Herencia (Polimorfismo)\12.3 Herencia (Polimorfismo)\obj\Debug\net8.0\12.3 Herencia (Polimorfismo).GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\12.3 Herencia (Polimorfismo)\12.3 Herencia (Polimorfismo)\obj\Debug\net8.0\12.3 Herencia (Polimorfismo).AssemblyInfoInputs.cache
+E:\C#\12.3 Herencia (Polimorfismo)\12.3 Herencia (Polimorfismo)\obj\Debug\net8.0\12.3 Herencia (Polimorfismo).AssemblyInfo.cs
+E:\C#\12.3 Herencia (Polimorfismo)\12.3 Herencia (Polimorfismo)\obj\Debug\net8.0\12.3 Herencia (Polimorfismo).csproj.CoreCompileInputs.cache
+E:\C#\12.3 Herencia (Polimorfismo)\12.3 Herencia (Polimorfismo)\obj\Debug\net8.0\12.3 Herencia (Polimorfismo).dll
+E:\C#\12.3 Herencia (Polimorfismo)\12.3 Herencia (Polimorfismo)\obj\Debug\net8.0\refint\12.3 Herencia (Polimorfismo).dll
+E:\C#\12.3 Herencia (Polimorfismo)\12.3 Herencia (Polimorfismo)\obj\Debug\net8.0\12.3 Herencia (Polimorfismo).pdb
+E:\C#\12.3 Herencia (Polimorfismo)\12.3 Herencia (Polimorfismo)\obj\Debug\net8.0\12.3 Herencia (Polimorfismo).genruntimeconfig.cache
+E:\C#\12.3 Herencia (Polimorfismo)\12.3 Herencia (Polimorfismo)\obj\Debug\net8.0\ref\12.3 Herencia (Polimorfismo).dll
