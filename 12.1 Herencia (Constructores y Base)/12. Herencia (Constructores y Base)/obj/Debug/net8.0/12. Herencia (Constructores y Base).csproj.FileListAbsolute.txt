@@ -1,0 +1,14 @@
+E:\C#\12. Herencia (Constructores y Base)\12. Herencia (Constructores y Base)\bin\Debug\net8.0\12. Herencia (Constructores y Base).exe
+E:\C#\12. Herencia (Constructores y Base)\12. Herencia (Constructores y Base)\bin\Debug\net8.0\12. Herencia (Constructores y Base).deps.json
+E:\C#\12. Herencia (Constructores y Base)\12. Herencia (Constructores y Base)\bin\Debug\net8.0\12. Herencia (Constructores y Base).runtimeconfig.json
+E:\C#\12. Herencia (Constructores y Base)\12. Herencia (Constructores y Base)\bin\Debug\net8.0\12. Herencia (Constructores y Base).dll
+E:\C#\12. Herencia (Constructores y Base)\12. Herencia (Constructores y Base)\bin\Debug\net8.0\12. Herencia (Constructores y Base).pdb
+E:\C#\12. Herencia (Constructores y Base)\12. Herencia (Constructores y Base)\obj\Debug\net8.0\12. Herencia (Constructores y Base).GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\12. Herencia (Constructores y Base)\12. Herencia (Constructores y Base)\obj\Debug\net8.0\12. Herencia (Constructores y Base).AssemblyInfoInputs.cache
+E:\C#\12. Herencia (Constructores y Base)\12. Herencia (Constructores y Base)\obj\Debug\net8.0\12. Herencia (Constructores y Base).AssemblyInfo.cs
+E:\C#\12. Herencia (Constructores y Base)\12. Herencia (Constructores y Base)\obj\Debug\net8.0\12. Herencia (Constructores y Base).csproj.CoreCompileInputs.cache
+E:\C#\12. Herencia (Constructores y Base)\12. Herencia (Constructores y Base)\obj\Debug\net8.0\12. Herencia (Constructores y Base).dll
+E:\C#\12. Herencia (Constructores y Base)\12. Herencia (Constructores y Base)\obj\Debug\net8.0\refint\12. Herencia (Constructores y Base).dll
+E:\C#\12. Herencia (Constructores y Base)\12. Herencia (Constructores y Base)\obj\Debug\net8.0\12. Herencia (Constructores y Base).pdb
+E:\C#\12. Herencia (Constructores y Base)\12. Herencia (Constructores y Base)\obj\Debug\net8.0\12. Herencia (Constructores y Base).genruntimeconfig.cache
+E:\C#\12. Herencia (Constructores y Base)\12. Herencia (Constructores y Base)\obj\Debug\net8.0\ref\12. Herencia (Constructores y Base).dll
