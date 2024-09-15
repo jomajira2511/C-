@@ -1,0 +1,14 @@
+C:\Users\_\source\repos\12. Herencia (Sintaxis)\12. Herencia (Sintaxis)\bin\Debug\net8.0\12. Herencia (Sintaxis).exe
+C:\Users\_\source\repos\12. Herencia (Sintaxis)\12. Herencia (Sintaxis)\bin\Debug\net8.0\12. Herencia (Sintaxis).deps.json
+C:\Users\_\source\repos\12. Herencia (Sintaxis)\12. Herencia (Sintaxis)\bin\Debug\net8.0\12. Herencia (Sintaxis).runtimeconfig.json
+C:\Users\_\source\repos\12. Herencia (Sintaxis)\12. Herencia (Sintaxis)\bin\Debug\net8.0\12. Herencia (Sintaxis).dll
+C:\Users\_\source\repos\12. Herencia (Sintaxis)\12. Herencia (Sintaxis)\bin\Debug\net8.0\12. Herencia (Sintaxis).pdb
+C:\Users\_\source\repos\12. Herencia (Sintaxis)\12. Herencia (Sintaxis)\obj\Debug\net8.0\12. Herencia (Sintaxis).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_\source\repos\12. Herencia (Sintaxis)\12. Herencia (Sintaxis)\obj\Debug\net8.0\12. Herencia (Sintaxis).AssemblyInfoInputs.cache
+C:\Users\_\source\repos\12. Herencia (Sintaxis)\12. Herencia (Sintaxis)\obj\Debug\net8.0\12. Herencia (Sintaxis).AssemblyInfo.cs
+C:\Users\_\source\repos\12. Herencia (Sintaxis)\12. Herencia (Sintaxis)\obj\Debug\net8.0\12. Herencia (Sintaxis).csproj.CoreCompileInputs.cache
+C:\Users\_\source\repos\12. Herencia (Sintaxis)\12. Herencia (Sintaxis)\obj\Debug\net8.0\12. Herencia (Sintaxis).dll
+C:\Users\_\source\repos\12. Herencia (Sintaxis)\12. Herencia (Sintaxis)\obj\Debug\net8.0\refint\12. Herencia (Sintaxis).dll
+C:\Users\_\source\repos\12. Herencia (Sintaxis)\12. Herencia (Sintaxis)\obj\Debug\net8.0\12. Herencia (Sintaxis).pdb
+C:\Users\_\source\repos\12. Herencia (Sintaxis)\12. Herencia (Sintaxis)\obj\Debug\net8.0\12. Herencia (Sintaxis).genruntimeconfig.cache
+C:\Users\_\source\repos\12. Herencia (Sintaxis)\12. Herencia (Sintaxis)\obj\Debug\net8.0\ref\12. Herencia (Sintaxis).dll
