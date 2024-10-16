@@ -1,0 +1,14 @@
+E:\C#\Pildoras Informativas\20. Delegados\20. Delegados\bin\Debug\net8.0\20. Delegados.exe
+E:\C#\Pildoras Informativas\20. Delegados\20. Delegados\bin\Debug\net8.0\20. Delegados.deps.json
+E:\C#\Pildoras Informativas\20. Delegados\20. Delegados\bin\Debug\net8.0\20. Delegados.runtimeconfig.json
+E:\C#\Pildoras Informativas\20. Delegados\20. Delegados\bin\Debug\net8.0\20. Delegados.dll
+E:\C#\Pildoras Informativas\20. Delegados\20. Delegados\bin\Debug\net8.0\20. Delegados.pdb
+E:\C#\Pildoras Informativas\20. Delegados\20. Delegados\obj\Debug\net8.0\20. Delegados.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Pildoras Informativas\20. Delegados\20. Delegados\obj\Debug\net8.0\20. Delegados.AssemblyInfoInputs.cache
+E:\C#\Pildoras Informativas\20. Delegados\20. Delegados\obj\Debug\net8.0\20. Delegados.AssemblyInfo.cs
+E:\C#\Pildoras Informativas\20. Delegados\20. Delegados\obj\Debug\net8.0\20. Delegados.csproj.CoreCompileInputs.cache
+E:\C#\Pildoras Informativas\20. Delegados\20. Delegados\obj\Debug\net8.0\20. Delegados.dll
+E:\C#\Pildoras Informativas\20. Delegados\20. Delegados\obj\Debug\net8.0\refint\20. Delegados.dll
+E:\C#\Pildoras Informativas\20. Delegados\20. Delegados\obj\Debug\net8.0\20. Delegados.pdb
+E:\C#\Pildoras Informativas\20. Delegados\20. Delegados\obj\Debug\net8.0\20. Delegados.genruntimeconfig.cache
+E:\C#\Pildoras Informativas\20. Delegados\20. Delegados\obj\Debug\net8.0\ref\20. Delegados.dll
